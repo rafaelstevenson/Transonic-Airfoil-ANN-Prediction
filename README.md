@@ -8,5 +8,5 @@ Pramudita Satria Palar, Lavi Rizki Zuhal, and Koji Shimoyama.
 "Gaussian Process Surrogate Model with Composite Kernel Learning for Engineering Design." 
 AIAA Journal 58, no. 4 (2020):1864-1880.
 
-Notebook made to explore simple Artificial Neural Network.
 The required packages is in the requirements.txt, use pip install -r requirements.txt to install the packages.
+Notebook made to explore simple Artificial Neural Network.
